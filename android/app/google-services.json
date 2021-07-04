@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985469565758",
+    "project_id": "inkling-personal",
+    "storage_bucket": "inkling-personal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985469565758:android:cdc68955d5922703470a6f",
+        "android_client_info": {
+          "package_name": "com.example.inkling_personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985469565758-a1odnub3hosbpicsqq9ovv5ou2dtrqlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6u_RYa0_qYswSdzC6XrERvXyxI0xEMuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985469565758-a1odnub3hosbpicsqq9ovv5ou2dtrqlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
