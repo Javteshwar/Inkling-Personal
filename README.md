@@ -1,7 +1,8 @@
 **INKLING 2.0**
 
 This application is secure way for document sharing. The documents can be purchased from the store present in app. Admin can use the app to upload files.
-
+The link for the backend component built using JavaScript, NodeJS/ExpressJS is given below.
+https://github.com/Javteshwar/Inkling-Backend
 
 <img src="https://user-images.githubusercontent.com/54021119/126866453-83f2b1b1-994e-4c1c-aaba-3c1e951e43d1.png" height="555" width="270" alt="Login Page" align="left">
 <img src="https://user-images.githubusercontent.com/54021119/126866456-16345cfa-1df5-4741-a798-11bff74b0b82.png" height="555" width="270" alt="Register Page" align="left">
